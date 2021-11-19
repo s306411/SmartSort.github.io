@@ -1,0 +1,59 @@
+#header, #footer{
+	background-color:#4574C3;
+}
+
+
+
+#placeholder {
+	text-align: center;
+}
+
+li {
+	list-style:none;
+	display:inline;
+	
+}
+
+#smartlogo{
+	margin:auto;
+	display:block;
+	width:25%;
+}
+
+#smartanim{
+	max-width: 100%;
+}
+
+#wrapper {	
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+
+ul{
+	display:inline-table;
+	padding-left: 0;
+
+}
+
+a{
+	text-decoration:none;
+}
+
+
+#pad{
+
+	 padding: 0;
+}
+
+ul>p{
+	display: inline-block;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top: 0;
+	margin-bottom:0;
+}
+
+
+
+

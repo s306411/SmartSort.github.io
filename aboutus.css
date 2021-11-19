@@ -1,0 +1,80 @@
+#header, #footer{
+	background-color:#B7CD5F;
+}
+
+#mainContent {
+	background-color:#B7CD5F;
+	margin-right: 10%;
+	margin-left: 10%;
+
+	margin-top:11%;
+	margin-bottom:2%;
+	padding-bottom:2%;
+}
+
+.contentText, li{
+	margin-left:9%;
+	margin-right:9%;
+	font-size:16pt;
+	line-height: 1.5;
+}
+ul {
+	margin-bottom: 5%;
+	padding:0,0,0,0;
+}
+
+
+#content1, #content2 {
+	display:flex;
+}
+
+#img1, #img2{
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+#img1 {
+	margin-top:5%;
+}
+img{
+	width: 40vw;
+}
+
+h2{
+	margin-left:9%;
+	margin-right:9%;
+	font-size:40pt;
+	font-weight:normal;
+}
+
+#memberWrapper{
+	display:flex;
+
+}
+#teamContent{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: blue;
+	width:1040px;
+
+	margin-bottom: 20%;
+}
+
+.member{
+	float:left;
+	max-width: 50%;
+}
+
+.member > img{
+	width: 100%;
+}	
+
+
+#teamHeader {
+	text-align:center;
+}
+
+.mainAbout > textMain {
+	position: absolute;
+}
+

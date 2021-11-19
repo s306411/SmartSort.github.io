@@ -1,0 +1,34 @@
+#header, #footer{
+	background-color:#606060;
+}
+
+#content {
+	margin-right: 8%;
+	margin-left: 8%;
+	margin-top:8%;
+}
+
+
+#content, #content2
+{
+	display:flex;
+}
+
+#textWrapper, #img1 {
+	float:left;
+}
+
+
+#img2, #img3, #img4{
+	max-width: 30%;
+	margin: auto;
+}
+
+#content2{
+	margin-top:5%;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
